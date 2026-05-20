@@ -36,5 +36,5 @@ spec:
   system: petstore
   owner: petstore-devs
   lifecycle: staging
-  definition:
-    $openapi: https://petstore3.swagger.io/api/v3/openapi.json
+  definition: 
+  
