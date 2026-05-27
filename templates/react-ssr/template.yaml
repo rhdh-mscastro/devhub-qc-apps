@@ -27,7 +27,7 @@ metadata:
     - react
     - spa
 spec:
-  owner: myorg-platform-team@example.com
+  owner: mauricioscastro
   type: website
   parameters:
     - title: Provide some simple information
